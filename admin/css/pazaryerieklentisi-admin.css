@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.ana-kapsayici{
+    margin-top: 10px!important;
+    padding-right: 20px;
+}
+.ayar_input{
+    margin-bottom: 10px;
+}
+.ayar_input input{
+    width: 100%;
+    margin-top: 3px;
+}
+.ayar_input .button{
+    margin-top: 3px;
+}
